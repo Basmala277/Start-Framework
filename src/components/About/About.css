@@ -1,0 +1,38 @@
+.about-section {
+    background-color: #1ABC9C; 
+    padding: 200px;
+}
+
+.about-heading {
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+}
+
+.text-center.mb-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    width: 10%;
+    height: 5px;
+    background-color: white;
+    margin: 0 10px;
+}
+
+.star {
+    color: white;
+    font-size: 30px;
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    text-align: left; /* محاذاة النص لليسار */
+}
+
+.col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+}

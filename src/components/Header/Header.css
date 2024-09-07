@@ -1,0 +1,44 @@
+.header {
+  background-color: #1abc9c;
+  height: 100vh;
+}
+
+.header img {
+  width: 150px;
+  height: 150px;
+}
+
+.header-title {
+  font-size: 4rem; /* تكبير حجم العنوان */
+  font-weight: bold;
+  color: white;
+  font-family: 'Raleway', sans-serif; /* الخط المستخدم في التصميم */
+}
+
+.star-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.divider {
+  width: 150px; /* زيادة طول الخطوط */
+  border-top: 5px solid #fff; /* زيادة سمك الخطوط */
+  margin: 0 5px; /* تقليل المسافة بين الخطوط */
+}
+
+.star-icon {
+  font-size: 2rem; /* زيادة حجم النجمة */
+  color: white;
+}
+
+.header-subtitle {
+  font-size: 1.5rem; /* تكبير حجم النص أسفل العنوان */
+  color: white;
+  font-family: 'Raleway', sans-serif; /* الخط المستخدم في التصميم */
+}
+
+.header img {
+  width: 250px; /* تكبير العرض */
+  height: 250px; 
+}
